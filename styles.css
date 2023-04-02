@@ -1,0 +1,22 @@
+body {
+    background-color: goldenrod;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+li {
+    font-style: italic;
+}
+
+a {
+    font-size: 22px;
+    color: lavender;
+}
+
+.image {
+    width: 700px;
+    height: 600px;
+}
